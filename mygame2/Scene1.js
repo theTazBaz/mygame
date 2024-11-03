@@ -4,7 +4,7 @@ class Scene1 extends Phaser.Scene {
     }
     preload()
     {
-      this.load.image("background", "C:\wamp64\www\mygame2\assets");
+      this.load.image("background", "assets\background.png");
     }
 create()
 {
